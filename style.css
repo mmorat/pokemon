@@ -1,6 +1,11 @@
+@font-face {
+    font-family: 'PokemonGB-RAeo';
+    src: url('https://raw.githubusercontent.com/mmorat/pokemon/main/PokemonGB-RAeo.ttf') format('truetype');
+ }
+
 body{
     background-color: rgb(239,43,52);
-    font:
+    font-family: 'PokemonGB-RAeo', sans-serif;
 
 }
 
